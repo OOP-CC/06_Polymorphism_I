@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "06_Polymorphism_I_1f7158a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
